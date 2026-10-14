@@ -1,0 +1,12 @@
+full stack workout tracking app to track progress over mezocycles for current exercise plan
+(python backend and security, either react native or android studio frontend)
+
+further expand to track diet and macros and micros ect 
+(consider AI recomendations or something in thenext step)
+
+further expand to use AI to analyze these patterns for relavent data output
+(custom engineered agent, perhaps with cool graphs or something)
+
+can further add tracking for fatigue and exercise videos perhaps too (with correct form)
+
+look into what is needed to 
