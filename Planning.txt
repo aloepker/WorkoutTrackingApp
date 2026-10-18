@@ -9,4 +9,8 @@ further expand to use AI to analyze these patterns for relavent data output
 
 can further add tracking for fatigue and exercise videos perhaps too (with correct form)
 
-look into what is needed to 
+look into what is needed to do.
+
+
+
+Started going over the system design documents from my old class to plan my system design documents for this project before getting started
