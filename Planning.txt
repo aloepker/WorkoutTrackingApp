@@ -14,3 +14,36 @@ look into what is needed to do.
 
 
 Started going over the system design documents from my old class to plan my system design documents for this project before getting started
+
+basics to write/design for the document:
+Executive summary
+intro:
+	problem statement/vision
+	system capabilities (like user stories)
+	non-functional reqs/constraints
+	system evolution
+	document outline
+structural model:
+	intro
+	class diagrams
+	metadata
+architecture design:
+	overview
+	model
+		deployment diagram (overview)
+		deployment diagram (nodes and artifacts)
+	hardware and software requirements
+		hardware components
+		software components
+	security plan
+		overview
+		plan
+UI
+	UI reqs and constraints
+	window/screen navigation diagram
+	UI wireframes
+	reports (formal output) design
+appendices
+	glossary
+	references
+	supporting docs
