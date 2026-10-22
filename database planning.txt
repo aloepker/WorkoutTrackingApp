@@ -1,0 +1,3 @@
+for one table, I will need the chosen workouts (or a numeric list that is combined with the list of total workouts, but I think for now maybe a list of user entered workouts will be useful)
+
+

@@ -1,0 +1,6 @@
+Screens:
+Login
+
+home screen:
+button for workout day (with nickname possible)
+
