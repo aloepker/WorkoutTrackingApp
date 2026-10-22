@@ -1,3 +1,7 @@
-for one table, I will need the chosen workouts (or a numeric list that is combined with the list of total workouts, but I think for now maybe a list of user entered workouts will be useful)
+table idea:
+columns for user, mezo number(maybe starting date?), workout, list number, csv reps per set, maybe more? this makes sense so far (this could be a big database, are different tables possible for different users maybe?)
 
+could have another table with the user name and an id number to save memory in the main database
 
+eventually another table listing food items for a diet
+and another table listing food items numbers per meal like in traymate
