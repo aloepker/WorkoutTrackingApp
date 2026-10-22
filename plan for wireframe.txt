@@ -1,6 +1,21 @@
 Screens:
-Login
+Login (investigate checkbox to stay logged in)
 
 home screen:
 button for workout day (with nickname possible)
+edit workout day button
+progress over time button
 
+
+Workout selection screen:
+textbox/dropdown to label each workout planned.
+adjustable time estimate for each workout based on sets
+plus button to be able to add additional workouts
+
+
+Workout tracking screen:
+spreadsheet layout, with a label over each row for the given workout (with some indicator of which workout in the mezocycle it is) 
+a button to end the mezocycle/start a new one (there should be a suggestion to start a new mezocycle after week 8 or after a week of 10% drop in progress, or 2 weeks of reduced progress)
+
+Progress over time:
+not sure yet
