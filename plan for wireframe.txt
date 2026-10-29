@@ -19,3 +19,5 @@ a button to end the mezocycle/start a new one (there should be a suggestion to s
 
 Progress over time:
 not sure yet
+
+considering how to actually design these.. hmm
