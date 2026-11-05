@@ -72,4 +72,6 @@ looks like I forgot about the system proposal document as well, which I need a r
 
 Looks like i have a good stable draft of the problem statement for the system specification document on the online word document
 
-Downloaded several workout apps to see how they compare to my idea what what I can do to upgrade my idea
+Downloaded several workout apps to see how they compare to my idea what what I can do to upgrade my idea.
+
+Thinking I am better off creating a basic tracking app for personal use. I can then upgrade the app later if I decide I want it to do other things or look fancier
