@@ -74,4 +74,5 @@ Looks like i have a good stable draft of the problem statement for the system sp
 
 Downloaded several workout apps to see how they compare to my idea what what I can do to upgrade my idea.
 
-Thinking I am better off creating a basic tracking app for personal use. I can then upgrade the app later if I decide I want it to do other things or look fancier
+Thinking I am better off creating a basic tracking app for personal use. I can then upgrade the app later if I decide I want it to do other things or look fancier.
+added to the word doc too
