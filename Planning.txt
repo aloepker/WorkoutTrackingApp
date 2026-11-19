@@ -76,3 +76,5 @@ Downloaded several workout apps to see how they compare to my idea what what I c
 
 Thinking I am better off creating a basic tracking app for personal use. I can then upgrade the app later if I decide I want it to do other things or look fancier.
 added to the word doc too
+
+did some sketches of wire frames for the app
