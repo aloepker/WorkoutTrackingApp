@@ -78,3 +78,4 @@ Thinking I am better off creating a basic tracking app for personal use. I can t
 added to the word doc too
 
 did some sketches of wire frames for the app
+got a good outline for the main tracking screen I think, still need to work on the trend/graph view, the main menu, and the way to view different clients/profiles
